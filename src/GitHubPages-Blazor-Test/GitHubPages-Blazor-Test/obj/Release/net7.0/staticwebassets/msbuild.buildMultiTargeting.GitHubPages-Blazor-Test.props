@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GitHubPages-Blazor-Test.props" />
+</Project>

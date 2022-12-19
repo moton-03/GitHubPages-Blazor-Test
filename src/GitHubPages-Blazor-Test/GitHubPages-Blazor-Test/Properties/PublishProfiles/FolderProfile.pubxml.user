@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\GitHub\GitHubPages-Blazor-Test\src\GitHubPages-Blazor-Test\GitHubPages-Blazor-Test\bin\Release\net7.0\browser-wasm\publish\</_PublishTargetUrl>
-    <History>True|2022-12-19T08:08:53.6343754Z;</History>
+    <History>True|2022-12-19T08:22:03.4349257Z;True|2022-12-19T17:08:53.6343754+09:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
